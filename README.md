@@ -1,6 +1,8 @@
 A NMEA-0183 GPS Protocol parser
 ===============================
 
+iddar estubo aqui
+
 An example using the node-serialport library to read a stream of messages
 from a GlobalSat BU-353 USB GPS receiver:
 
